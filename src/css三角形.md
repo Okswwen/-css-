@@ -1,0 +1,17 @@
+/* css三角形*/
+
+### css三角形
+
+
+```scss
+.triangle {
+  width: 0;
+  height: 0;
+  border-top: 20px solid #333;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+
+
+```

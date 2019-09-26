@@ -12,6 +12,7 @@ visible| hidden | scroll | auto
 	height: 100px;
 	ul {
 		overflow-x: scroll;
+  	white-space: nowrap; // 关键
 		cursor: pointer;
 		&::-webkit-scrollbar { // 滚动条的高度
 			height: 10px;
